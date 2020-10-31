@@ -30,7 +30,7 @@ class CreateBranchesTable extends Migration
             $table->timestamps();
         });
     }
-
+    //obada
     /**
      * Reverse the migrations.
      *
