@@ -24,6 +24,10 @@ class CreateCitiesTable extends Migration
 
 
 
+
+
+
+
     
     /**
      * Reverse the migrations.
